@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "LeetCode notes generator",
+  "version": "1.0",
+  "description": "one click leetcode problem note generators",
+  "icons": {
+    "16": "images/icon.png",
+    "24": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  }
+}
